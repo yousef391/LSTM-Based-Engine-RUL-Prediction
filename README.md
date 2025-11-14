@@ -131,7 +131,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn torch
 
 ## Author
 
-Developed for CEA internship application - Predictive Maintenance with Deep Learning and Explainability
+Ouddane youcef fahed
 
 ---
 
